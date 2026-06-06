@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**itspeytrick/itspeytrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **School:** [Your University/College Name]
+- **Degree:** [e.g., B.S. in Computer Science]
+- **Expected Graduation:** [Month, Year]
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **[Name of a school or personal project]**
+- 🌱 I’m currently learning **[e.g., React, Python, Data Structures]**
+- 🎯 Future Goals: Looking for **[Summer 2026 Internships / New Grad Roles]**
+- ⚡ Fun fact: [Add a short, interesting hobby or fact about yourself!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript, Python, Java, C++
+- **Tools & Frameworks:** Git, Node.js, VS Code, React
+- **Databases:** PostgreSQL, MongoDB
+
+### 📬 Connect with Me
+- **LinkedIn:** [Insert Link]
+- **Portfolio Website:** [Insert Link]
+- **Email:** [Your Email Address]
