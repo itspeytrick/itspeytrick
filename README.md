@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently a Third Year Student
-- 🌱 I’m currently learning **[Ruby,Python, Data Structures]**
+- 🌱 I’m currently learning **Ruby,Python, Data Structures**
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** JavaScript, Python, Java, C++
