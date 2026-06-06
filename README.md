@@ -1,8 +1,8 @@
 # Hi there, I'm JOHN PATRICK PINON! 👋
 
 ### 🎓 Education
-- **School:** [Technological Institute of the Philippines]
-- **Degree:** [e.g., B.S. in Computer Engineering]
+- **School:** Technological Institute of the Philippines
+- **Degree:**  B.S. in Computer Engineering
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Name of a school or personal project]**
