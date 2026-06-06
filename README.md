@@ -1,9 +1,8 @@
-# Hi there, I'm [JOHN PATRICK PINON]! 👋
+# Hi there, I'm JOHN PATRICK PINON! 👋
 
 ### 🎓 Education
-- **School:** [Your University/College Name]
+- **School:** [technological institute of the philippines]
 - **Degree:** [e.g., B.S. in Computer Science]
-- **Expected Graduation:** [Month, Year]
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Name of a school or personal project]**
