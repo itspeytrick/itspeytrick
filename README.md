@@ -2,11 +2,11 @@
 
 ### 🎓 Education
 - **School:** Technological Institute of the Philippines
-- **Degree:**  B.S. in Computer Engineering
+- **Degree:**  Bachelor of Science in Computer Engineering
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Name of a school or personal project]**
-- 🌱 I’m currently learning **[e.g., React, Python, Data Structures]**
+- 🔭 I’m currently a Third Year Student
+- 🌱 I’m currently learning **[Ruby,Python, Data Structures]**
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** JavaScript, Python, Java, C++
@@ -14,6 +14,5 @@
 - **Databases:** PostgreSQL, MongoDB
 
 ### 📬 Connect with Me
-- **LinkedIn:** [Insert Link]
-- **Portfolio Website:** [Insert Link]
-- **Email:** [Your Email Address]
+- **Viber:** 
+- **Line:**
