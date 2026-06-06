@@ -1,4 +1,4 @@
-# Hi there, I'm JOHN PATRICK PINON! 👋
+# Hi there, I'm JOHN PATRICK PINON!
 
 ### 🎓 Education
 - **School:** Technological Institute of the Philippines
